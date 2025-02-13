@@ -20,4 +20,4 @@ At the end of the day, this whole project isn’t just about coding or math—it
 
 #OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/4a93fe19-7386-4244-9ffd-d118d577d251)
